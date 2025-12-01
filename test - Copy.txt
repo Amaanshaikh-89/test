@@ -1,1 +1,3 @@
-this is the test case and this the of copy of test
+this is the test case.
+this the of copy of test.
+from branch master to feature1.
